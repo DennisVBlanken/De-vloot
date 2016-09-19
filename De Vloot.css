@@ -1,9 +1,12 @@
 body{
-	margin-left: 275px; 
 	font-family: Arial;
 	background-image: url(header.jpg), url(bg.png);
 	background-repeat: no-repeat, repeat-x;
 	background-position: center top;
+}
+header{
+	width: 800px;
+	margin: 0 auto;
 }
 h1{
 	margin-bottom: 0px;
@@ -40,6 +43,7 @@ ul.top-menu{
 	word-spacing: 20px;
 }
 div{
+	margin: 0 auto;
 	background-color: white;
 	width: 800px;
 }
