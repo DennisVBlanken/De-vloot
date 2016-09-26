@@ -50,8 +50,15 @@ ul.top-menu{
 	font-size: 13px;
 	word-spacing: 20px;
 }
-div{
+div.list{
 	margin: 0 auto;
 	background-color: white;
 	width: 800px;
+}
+div.top-menu{
+	padding-left: 30px; 
+	width: 800px;
+	margin: 0 auto;
+	font-size: 13px;
+	word-spacing: 20px;
 }
